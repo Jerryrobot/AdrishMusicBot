@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/f2a4be68df25067e60ce8.jpg" align="right" width="200" height="200"/>
 
 # Adrish Music Bot <img src="https://img.shields.io/github/v/release/MrAdrish69/AdrishMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
